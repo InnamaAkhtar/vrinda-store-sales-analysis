@@ -5,7 +5,7 @@
 This project presents an interactive E-Commerce Sales Dashboard developed using Microsoft Excel to analyze sales performance, customer orders, product categories, and sales trends. The dashboard provides meaningful insights through charts, KPI cards, and interactive slicers.
 
 ## 📊 Dashboard Preview
-![Vrinda Store Sales Dashboard](dashboard.png)
+![Vrinda Store Sales Dashboard](https://github.com/InnamaAkhtar/vrinda-store-sales-analysis/blob/main/image.png%20(1).png)
 
 ## Objectives
 
